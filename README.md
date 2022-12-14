@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 Below the project tasks:
 
-  Complete the tasks below
+  * Complete the tasks below
 
     * You should create a database named universe
 
